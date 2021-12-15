@@ -1,0 +1,43 @@
+.hero-section {
+  padding: 60px 50px;
+  padding-top: 128px;
+  padding-bottom: 96px;
+}
+.main-btn {
+  min-width: 120px;
+  padding: 5px 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: #b8a4fd;
+  -webkit-transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+  transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+  color: #202020;
+  font-size: 16px;
+  line-height: 1.84;
+  text-align: center;
+  letter-spacing: -0.24px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.main-btn:hover {
+  background-color: #222;
+  color: #b8a4fd;
+}
+.hero-flex {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 6rem;
+  justify-content: center;
+  align-items: center;
+}
+.right-hero {
+    width: 100%;
+    height: 100%;
+}
+.right-hero img{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    
+}

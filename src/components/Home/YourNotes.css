@@ -1,0 +1,17 @@
+.dark-section {
+  background-color: #202020;
+  color: #fffdf8;
+}
+.section-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.sec-btn:hover {
+  background-color: white;
+}
+.border-around {
+  border: 1px solid #fffdf8;
+  display: inline-block;
+  padding: .5rem;
+  border-radius: 8px;
+}
