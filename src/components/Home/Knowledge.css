@@ -1,0 +1,28 @@
+.knowledge-section {
+  background-color: #202020;
+  color: #fffdf8;
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  padding: 3rem;
+  gap: 1rem;
+}
+.knowledge-right {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.3rem;
+}
+.poster-container {
+  width: 100%;
+  cursor: pointer;
+}
+.poster-container img {
+  width: 100%;
+  height: auto;
+}
+.knowledge-left h2 {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+.knowledge-left p {
+  max-width: 450px;
+}

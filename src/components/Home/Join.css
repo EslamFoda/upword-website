@@ -1,0 +1,28 @@
+.black-border {
+  border: 1px solid black;
+  font-size: 54px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+  padding: 0.2rem 0.4rem;
+  border-radius: 8px;
+}
+.join-right {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 3rem;
+  margin: auto;
+}
+.join-left {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+.company-img-container {
+  display: block;
+  width: 74px;
+  height: 74px;
+}
+.company-img-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

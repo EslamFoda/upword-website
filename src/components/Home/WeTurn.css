@@ -1,0 +1,14 @@
+.we-turn-section{
+    border-bottom: 1px solid #202020;
+}
+.we-turn-left {
+  padding: 3rem;
+  border-right: 1px solid #202020;
+}
+.we-turn-left h2 {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+.we-turn-right {
+  margin: 2rem;
+}

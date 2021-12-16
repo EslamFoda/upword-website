@@ -27,6 +27,16 @@ h1 {
 h2 {
   font-size: 54px;
   line-height: 1;
-  font-weight: 800;
+  font-weight: 400;
   font-family: "Times New Roman", Times, serif;
+}
+h3{
+  font-size: 95px;
+  margin: 0 0 20px;
+  line-height: 1;
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+}
+.active {
+  color: #b8a4fd !important;
 }

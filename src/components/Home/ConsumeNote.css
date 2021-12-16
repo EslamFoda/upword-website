@@ -1,0 +1,21 @@
+.consume-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.consume-left {
+  width: 100%;
+  padding: 4.5rem 3rem 3rem 3rem;
+  border-right: 1px solid #202020;
+}
+.consume-left img {
+  width: 100%;
+  height: auto;
+}
+.consume-right {
+  margin: 0 3rem;
+}
+.consume-right h2 {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
