@@ -33,7 +33,7 @@ nav {
   transition: all 0.2s ease-in-out;
 }
 .login-btn:hover {
-  color: white;
+  color: #fffdf8;
   background-color: #b8a4fd;
 }
 .start-btn {

@@ -1,0 +1,44 @@
+.testimonials-section {
+  padding: 8rem 0;
+  background-color: #e2dbfb;
+}
+.custom-swiper-container {
+  max-width: 690px;
+  background-color: #fffdf8;
+  border: 1px solid #202020;
+  border-radius: 8px;
+}
+.swipe-grid {
+  display: flex;
+  padding: 2rem;
+  color: #202020;
+}
+.swipe-bottom {
+  display: flex;
+  align-items: center;
+}
+.swipe-bottom span {
+  font-size: 0.9rem;
+}
+.swipe-left svg {
+  margin-right: 2rem;
+}
+.swipe-right p {
+  margin-bottom: 2rem;
+}
+.swipe-bottom img {
+  width: 63px;
+  height: 63px;
+  margin-right: 1rem;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  color: #2020205b !important;
+}
+.swiper-button-next:hover,.swiper-button-prev:hover {
+  color: black !important;
+}
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 25px;
+}

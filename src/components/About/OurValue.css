@@ -1,0 +1,21 @@
+.value-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid #202020;
+}
+.value-left {
+  padding: 3rem;
+  border-right: 1px solid #202020;
+}
+.value-left p {
+  max-width: 390px;
+}
+.value-right {
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+.value-box p {
+  max-width: 200px;
+}

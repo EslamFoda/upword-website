@@ -1,0 +1,13 @@
+.outcome-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  border-bottom: 1px solid #202020;
+}
+.outcome-left {
+  padding: 4.5rem 3rem;
+  border-right: 1px solid #202020;
+}
+.outcome-right {
+  padding: 0 3rem;
+}

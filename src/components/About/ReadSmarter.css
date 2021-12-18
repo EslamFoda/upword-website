@@ -1,0 +1,13 @@
+.smarter-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 7rem 0;
+  background-color: #e2dbfb;
+}
+.smarter-section p {
+  max-width: 380px;
+  text-align: center;
+  margin: auto;
+}
